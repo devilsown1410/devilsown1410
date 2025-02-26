@@ -1,5 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/devilsown1410)
+[![MasterHead](https://i.imgur.com/8km7h9z.png)](https://github.com/devilsown1410)
 <br>
+
 
 <div align="center" width="100%">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Rahul+Singh" alt="Typing SVG" />
