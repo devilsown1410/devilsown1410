@@ -1,4 +1,4 @@
-<div align="center" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Ritik+Gupta%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" /> </div>
+<div align="center" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Rahul%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" /> </div>
 🔭 I’m currently working on AI-powered productivity tools
 
 🌱 Learning Cloud Architecture & Advanced React Patterns
